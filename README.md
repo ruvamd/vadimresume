@@ -1,2 +1,2 @@
-# https://ruvamd.github.io/VadimResume.github.io/
+# https://ruvamd.github.io/VadimResume/
 Vadim's resume
