@@ -1,3 +1,4 @@
 # https://ruvamd.github.io/vadimresume/
 Vadim's resume
-![qr_vadim_resume](https://user-images.githubusercontent.com/57729180/231637325-d21242a1-fadc-4dde-81a8-1bcca7641394.png)
+![qrcode_ruvamd github io](https://github.com/ruvamd/vadimresume/assets/57729180/464e7aa0-c819-4e19-af86-9c99b6ee5cc5)
+
